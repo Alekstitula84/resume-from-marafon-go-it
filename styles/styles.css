@@ -21,7 +21,6 @@ body {font-family: 'Montserrat', sans-serif;
 }
 
 
-
 /* about styles */
 .about {
        margin-bottom: 40px;
@@ -105,9 +104,7 @@ body {font-family: 'Montserrat', sans-serif;
 }
 
 /* work styles */
-.work {
-    
-}
+
 
 .work-position, .education-position {
     font-style: normal;
